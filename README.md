@@ -2,8 +2,8 @@
 
 #### Status: in progress
 
-## Description
-
+## Descriptionss
+   
 Welcome to the project on galaxy clustering! From the tutorials you will learn the following:
 
 - *Tutorial 1* : Data Preprocessing
