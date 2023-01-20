@@ -2,7 +2,7 @@
 
 #### Status: in progress
 
-## Descriptionss
+## Descriptions
    
 Welcome to the project on galaxy clustering! From the tutorials you will learn the following:
 
@@ -23,17 +23,15 @@ The data used is [GalaxyMNIST](https://github.com/mwalmsley/galaxy_mnist) which 
 
 
 ## Hackathon Task
-From the proposed pipeline (tutorial), investigate new ways to classify the morphology of galaxies using machine learning
-
+After finishing the tutorials, try to get a totally new data set and try some of the tools we learned from the past few tutorials. You can explore data in any subject area, as long as it's image data. The data doesn't have to be labelled, as we already taught you how to do unsupervised learning (clustering). It also has to have fewer than 10,000 images for the pipeline to run in a reasonable amount of time. Please approach an instructor if you need some advice.
 
 ## Prerequisites
 
-All the libraries/dependencies necessary to run the tutorials are listed in the [requirements.txt](https://github.com/Hack4Dev/galaxy-cluster/blob/main/requirements.txt) file.
+All the libraries/dependencies necessary to run the tutorials are listed in the [requirements.txt](https://github.com/Hack4Dev/galaxy_CV/blob/main/requirements.txt) file.
 
 
-## Installation
+### Installation
 
-All the required libraries can be installed using pip and the [requirements.txt](https://github.com/Hack4Dev/galaxy-cluster/blob/main/requirements.txt) file in the repo:
 
 ```bash
 > pip install -r requirements.txt
@@ -42,7 +40,7 @@ All the required libraries can be installed using pip and the [requirements.txt]
 ### Would you like to clone this repository? Feel free!
 
 ```bash
-> git clone https://github.com/Hack4Dev/galaxy-cluster.git
+> git clone https://github.com/Hack4Dev/galaxy_CV.git
 ```
 
 Then make sure you have the right Python libraries for the tutorials. 
@@ -59,16 +57,18 @@ apt install git
 You can then clone the repository by typing:
 
 ```
-git clone https://github.com/Hack4Dev/galaxy-cluster.git
+git clone https://github.com/Hack4Dev/galaxy_CV.git
 ```
 
 To update your clone if changes are made, use:
 
 ```
-cd galaxy-cluster/
+cd galaxy_CV/
 git pull
 ```
 
------
+----
 
+### Original research work:
 
+E. Fielding, C. N. Nyirenda and M. Vaccari, "The Classification of Optical Galaxy Morphology Using Unsupervised Learning Techniques," 2022 International Conference on Electrical, Computer and Energy Technologies (ICECET), 2022, pp. 1-6, doi: 10.1109/ICECET55527.2022.9872611.
