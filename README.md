@@ -4,7 +4,7 @@
 
 ## Description
    
-Welcome to the Galaxy Clustering hackathon project! This project includes the following tutorials:
+Welcome to the galaxy hackathon project! This project includes the following tutorials:
 
 - *Tutorial 1* : Data Preprocessing
 - *Tutorial 2* : Automatic Feature Extraction/Engineering
