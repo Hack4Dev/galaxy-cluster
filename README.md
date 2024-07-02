@@ -1,10 +1,10 @@
-# Classification/clustering of galaxies using supervised and unsupervised learning.
+# Classification of galaxies.
 
 #### Status: in progress
 
 ## Description
    
-Welcome to the galaxy hackathon project! This project includes the following tutorials:
+Welcome to the Galaxy Hackathon project! This project includes the following tutorials:
 
 - *Tutorial 1* : Data Preprocessing
 - *Tutorial 2* : Automatic Feature Extraction/Engineering
@@ -23,7 +23,7 @@ The [GalaxyMNIST](https://github.com/mwalmsley/galaxy_mnist) dataset is used for
 
 
 ## Hackathon Task
-After completing the tutorials, find a new dataset to try out the tools and methods mentioned in the tutorials. You can explore data in any subject area, as long as it's image data. The data doesn't have to be labelled, as we already taught you how to do unsupervised learning (clustering). The only constraint is that the dataset should contain less than 10,000 images, so that the pipeline will run in a reasonable amount of time. Please approach an instructor if you need some advice.
+After completing the tutorials, teams must utilize supervised learning to classify four types of galaxy objects. Collaborate to develop a pipeline that surpasses the one presented here. Support your choices with available literature or by experimenting and optimizing with different methods to find the best approach. Please note, avoid optimizing your methods on the testing set, as this constitutes data leakage. Instead, create a validation set from the training set and use the validation set to optimize your methods. A 20:80 split should be sufficient.
 
 ## Prerequisites
 
